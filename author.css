@@ -14,7 +14,31 @@
         width: 16.66%;
     }
 }
-
+.price {
+    font-size: 28px;
+    color: #0c0c36;
+}
+.Retailers {
+    font-size: 48px;
+    color: #8b211e;
+}
+.seller {
+    font-size: 44px;
+    color: #03030e;
+}
+.Email {
+    font-size: 36px;
+    color: darkolivegreen;
+    text-decoration: none;
+}
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+.socialmedia {
+    font-size: 34px;
+    color: blue;
+}
 .jumbotron.indexbackground {
     background-image: url(../images/knottystain.jpg);
 }
